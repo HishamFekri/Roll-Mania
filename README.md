@@ -1,8 +1,8 @@
 # Roll Mania
 
-Roll Mania is a small 3D physics-based racing prototype built with Unity and C#.
+Roll Mania is a small 3D physics based racing prototype built with Unity and C#.
 
-The player controls a ball and races through the track while dealing with gravity, obstacles, and time-based gameplay.
+The player controls a ball and races through the track while dealing with gravity, obstacles, and time based gameplay.
 
 ## Gameplay
 
@@ -10,12 +10,10 @@ The goal is to reach the finish line as quickly as possible while staying on the
 
 The game includes:
 
-- Physics-based ball movement
+- Physics based ball movement
 - Sprint / speed boost mechanic
 - Increased gravity control
 - Timer and speed display
-- Pickups
-- Win / lose states
 - Pause and restart system
 - Basic sound effects and visual effects
 
@@ -52,7 +50,7 @@ To play:
 
 This project was created as a small game development prototype to practice:
 
-- Object-oriented programming
+- Object oriented programming
 - Player movement and physics
 - Game state management
 - Unity components and collisions
