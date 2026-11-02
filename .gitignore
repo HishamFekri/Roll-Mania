@@ -1,0 +1,71 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/AssetStoreTools*
+
+# Build outputs
+/[Bb]uild/
+/[Bb]uilds/
+/[Bb]uilder/
+/*_Data/
+/*_BurstDebugInformation_DoNotShip/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/MonoBleedingEdge/
+/*.exe
+/UnityPlayer.dll
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# IDE and generated project files
+/.vs/
+/.vscode/
+/.idea/
+/.vsconfig
+/*.sln
+/*.csproj
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.mdb
+/*.opendb
+/*.VC.db
+/UpgradeLog*.htm
+ExportedObj/
+.consulo/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unrelated empty Unity project left inside this folder
+/My project (1)/
+
+# Third-party content that must not be redistributed in source form.
+# Scene references use GUIDs, so importing these packs back into the same
+# locations restores them. See "Third-party assets" in README.md.
+/Assets/Low_Poly_Sci-fi_City/
+/Assets/Low_Poly_Sci-fi_City.meta
+/Assets/SpaceSkies Free/
+/Assets/SpaceSkies Free.meta
+/Assets/BEDRILL/
+/Assets/BEDRILL.meta
+/Assets/TextureHaven/
+/Assets/TextureHaven.meta
+/Assets/SimpleFX/
+/Assets/SimpleFX.meta
+/Assets/CreativeCore_UI/
+/Assets/CreativeCore_UI.meta
+/Assets/Audio/
+/Assets/Audio.meta
